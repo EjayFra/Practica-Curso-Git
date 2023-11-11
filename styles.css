@@ -1,0 +1,9 @@
+body {
+    width: 200vw;
+    height: 100vh;
+    background: black;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    margin: 0;
+    display: grid;
+}
